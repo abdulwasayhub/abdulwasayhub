@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Wasay
-- 👀 I’m interested in Web Development and related internships.
-- 🌱 I’m currently learning Html,Css,Js,React Js
+- 👀 I’m interested in Web Development and related internships(Front end).
+- 🌱 I’m currently learning HTML,CSS,JS,React JS.
 - 📫 You can reach me munirabdulwasay@gmail.com
 
 <!---
