@@ -16,12 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Wasay's GitHub stats](https://github-readme-stats.vercel.app/api?username=munirabdulwasay&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munirabdulwasay&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdul-wasay-munir-23a83322a/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://abdulwasayportfolio.netlify.app)
