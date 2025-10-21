@@ -45,12 +45,7 @@
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <!-- Primary API -->
   <img src="https://github-profile-trophy.vercel.app/?username=abdulwasayhub&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-  <!-- Fallback Mirror (in case primary is down) -->
-  <br/>
-  <img src="https://github-readme-trophies.vercel.app/?username=abdulwasayhub&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies Backup" />
 </p>
 
 ---
