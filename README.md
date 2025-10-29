@@ -4,9 +4,9 @@
 
 ### 🚀 Graduate BSCS Student | MERN Stack Developer | React Enthusiast
 
-- 🌱 Currently learning **MERN**
+- 🌱 Currently learning **MERN Stack**
 - 💼 FYP: [LearnCraft LMS](https://github.com/abdulwasayhub/learncraft-learning-management-system)
-- 💬 Ask me about **React, Node.js, Tailwind**
+- 💬 Ask me about **React, Node.js, Tailwind CSS**
 
 ---
 
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwasayhub&theme=tokyonight&hide_border=true" alt="Abdul Wasay's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=abdulwasayhub&theme=tokyonight&hide_border=true" alt="Abdul Wasay's GitHub streak" />
 </p>
 
 <p align="center">
